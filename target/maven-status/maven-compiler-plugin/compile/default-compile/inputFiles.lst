@@ -1,0 +1,14 @@
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/dto/CommentWithRepliesDTO.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/controllers/HomeController.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/service/CommentServiceImpl.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/entity/User.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/repos/CommentRepository.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/dto/CommentDTO.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/service/CommentService.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/entity/Comment.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/dto/ReplyDTO.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/CommentServiceApplication.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/repos/ReplyRepository.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/entity/Reply.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/dto/UserDTO.java
+/Users/asisodiya/Downloads/comment-service/src/main/java/com/example/controllers/CommentController.java

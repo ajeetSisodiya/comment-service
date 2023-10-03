@@ -1,0 +1,56 @@
+/* Style for displaying comments */
+#comments {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.comment {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.comment-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.comment-user {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.comment-date {
+    font-size: 12px;
+    color: #888;
+}
+
+/* Style for displaying replies */
+.reply {
+    margin-left: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.reply-text {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.reply-user {
+    font-weight: bold;
+    color: #007bff;
+    font-size: 14px;
+}
+
+.reply-date {
+    font-size: 12px;
+    color: #888;
+}
